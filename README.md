@@ -1,8 +1,12 @@
 - 👋 Hi, I’m @jiigggeee!!!
-- 👀 I’m interested in getting better at Python, building nice database models/live products, and 
+- 👀 I’m interested in getting better at Python, building nice database models/live products, and leveling up at EVERYTHING.
 - 🌱 I’m currently learning Python again for the second time (the first time didn't take).
-- 💞️ I’m looking to collaborate on database stuff
-- 📫 How to reach me - Twitter (@jiigggeee)
+- 💞️ I’m looking to collaborate on database stuff and anything else that seems viable.
+- 📫 How to reach me the quickest - Twitter (@jiigggeee)
+
+Say hey.
+[center]![image](https://user-images.githubusercontent.com/95113407/143666519-e5bab135-4fa0-49ee-abbe-225224b53f67.png)[/center]
+
 
 <!---
 jiigggeee/jiigggeee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
