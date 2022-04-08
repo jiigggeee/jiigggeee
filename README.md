@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jiigggeee!!!
+- 👋 Hi!
 - 👀 I’m interested in getting better at Python, building nice database models/live products, and leveling up at EVERYTHING.
 - 🌱 I’m currently learning advanced Python,Jupyter Notebook, and advanced SQL Server skills.
 - 💞️ I’m looking to collaborate on database stuff and anything else that seems viable.
